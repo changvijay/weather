@@ -1,0 +1,76 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+body {
+
+    color: black !important;
+    background-image: url('download.jpeg') !important;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+div {
+    border-radius: 10px;
+}
+
+nav {
+    background-color: black !important;
+    color: white !important;
+}
+
+.container {
+    margin: 0.5rem;
+    color: black;
+
+}
+
+.col {
+
+    margin-left: 5%;
+    font-size: 2rem;
+    /* background-color: black; */
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.25);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+i {
+    position: relative !important;
+}
+
+.fa-spin {
+    margin-left: 3rem;
+}
+
+form {
+    background-color: rgb(70, 68, 68);
+    color: black;
+
+}
+
+.chart-container {
+    margin-left: 20%;
+    height: 40vh;
+    background-color: rgb(214, 212, 212);
+
+}
+
+a {
+    font-size: 2rem;
+    color: white;
+
+}
+
+#footer {
+    width: 100%;
+    background-color: black;
+    color: white;
+}
