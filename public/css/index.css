@@ -6,7 +6,7 @@
 
 body {
 
-    color: black !important;
+    color: 	rgb(173,216,230) !important;
     background-image: url('download.jpeg') !important;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -50,7 +50,7 @@ i {
 }
 
 form {
-    background-color: rgb(70, 68, 68);
+    background-color: rgb(70, 68, 68) !important;
     color: black;
 
 }
@@ -59,6 +59,12 @@ form {
     margin-left: 20%;
     background-color: rgb(214, 212, 212);
 
+}
+@media only screen and (max-width: 600px) {
+  /* Styles for mobile view */
+  .container {
+    width: 100% !important;
+  }
 }
 
 a {
