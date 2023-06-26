@@ -18,7 +18,7 @@ div {
 }
 
 nav {
-    background-color: blue !important;
+    background-color: rgb(77, 162, 247) !important;
 }
 
 .container {
@@ -50,7 +50,7 @@ i {
 }
 
 form {
-    background-color: rgb(70, 68, 68) !important;
+    background-color: RGB(62, 62, 214) !important;
     color: black;
 
 }
